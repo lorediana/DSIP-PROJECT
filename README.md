@@ -36,8 +36,11 @@
 7. Conclusion
 
 
-First checkpoint (17th of November): Chapters 1, 2, 3
-Second checkpoint (15th of December)
+
+###First checkpoint (17th of November): Chapters 1, 2, 3
+
+###Second checkpoint (15th of December)
+
 
 A project made in collaboration by:
 
