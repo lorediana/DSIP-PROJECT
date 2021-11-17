@@ -4,7 +4,7 @@
 2. Exploring the content of variables
 •	2.1 Countries
 •	2.2 Customers and products
-  - 2.2.1 Cancelling orders
+ 	- 2.2.1 Cancelling orders
 	- 2.2.2 StockCode
 	- 2.2.3 Basket price
 3. Insight on product categories
@@ -15,8 +15,8 @@
 	- 3.2.3 Characterizing the content of clusters
 4. Customer categories
 •	4.1 Formating data
-  - 4.1.1 Grouping products
-  - 4.1.2 Time spliting of the dataset
+  	- 4.1.1 Grouping products
+  	- 4.1.2 Time spliting of the dataset
 	- 4.1.3 Grouping orders
 •	4.2 Creating customer categories
 	- 4.2.1 Data enconding
