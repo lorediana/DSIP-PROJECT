@@ -37,9 +37,9 @@
 
 
 
-###First checkpoint (17th of November): Chapters 1, 2, 3
+### First checkpoint (17th of November): Chapters 1, 2, 3
 
-###Second checkpoint (15th of December)
+### Second checkpoint (15th of December)
 
 
 A project made in collaboration by:
