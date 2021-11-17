@@ -44,8 +44,13 @@
 
 A project made in collaboration by:
 
+
 Lavinia Popa
+
 Lorena Bara
+
 Lucian Anton
+
 Mircea Vaman
+
 Rubén Lozano
